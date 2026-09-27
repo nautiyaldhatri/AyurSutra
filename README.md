@@ -2,6 +2,9 @@
 
 Ayurvedic Healthcare Application.
 
+## Live Demo
+🔗 https://ayur-sutra-sigma.vercel.app
+
 ## Run locally
 
 ```bash
@@ -24,3 +27,26 @@ git pull
 npm install
 npm run dev
 ```
+
+## Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Choose Your Workspace
+![Workspace Selector](screenshots/workspace.png)
+
+### Patient Intake — Language & Consent
+![Consent Step 1](screenshots/consent1.png)
+![Consent Step 2](screenshots/consent2.png)
+![Consent Step 3](screenshots/consent3.png)
+![Consent Confirmed](screenshots/consent.png)
+
+### Emergency / Safety Alert
+![Emergency Alert](screenshots/emergency.png)
+
+### Explore Ayurveda
+![Explore Page](screenshots/explore_page.png)
+
+### Search
+![Search](screenshots/search.png)
